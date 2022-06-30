@@ -1,5 +1,6 @@
 # DesktopProgramming
 Tugas Besar Aplikasi Undian Mahasiswa
+
 Assalamualaikum wr.wb. Saya Meisya Reptiana dengan NIM 32602000099, ingin menejelaskan sedikit mengenai aplikasi Undian Mahasiswa yang saya buat.
 Sebelum menjalankan aplikasi, terlebih dahulu meng-import database yang sudah ada dengan nama ‘undian.sql’. Selanjutnya, berikut merupakan penjelasan mengenai cara menjalankan apikasi :
 1.	Halaman utama dari aplikasi tersebut merupakan halaman Daftar Nama, dimana terdapat beberapa button dengan fungsi yang berbeda seperti berikut :
